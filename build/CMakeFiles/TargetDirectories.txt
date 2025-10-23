@@ -1,0 +1,3 @@
+C:/Users/szyme/Desktop/C++/zejsciowki/1/lab-1-Szymi039/build/CMakeFiles/zal.dir
+C:/Users/szyme/Desktop/C++/zejsciowki/1/lab-1-Szymi039/build/CMakeFiles/edit_cache.dir
+C:/Users/szyme/Desktop/C++/zejsciowki/1/lab-1-Szymi039/build/CMakeFiles/rebuild_cache.dir
