@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/szyme/Desktop/C++/zejsciowki/1/lab-1-Szymi039/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/zal.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\zal.dir\\test.cpp.obj -c C:\\Users\\szyme\\Desktop\\C++\\zejsciowki\\1\\lab-1-Szymi039\\test.cpp",
-  "file": "C:/Users/szyme/Desktop/C++/zejsciowki/1/lab-1-Szymi039/test.cpp",
-  "output": "CMakeFiles/zal.dir/test.cpp.obj"
-}
-]
